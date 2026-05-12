@@ -343,17 +343,17 @@ st.markdown('---')
 st.subheader('💡 Insights Relevantes')
 
 st.markdown("""
-- 🌙 El turno de noche presenta la mayor cantidad de unidades defectuosas.
+- 📌 El 45% de las causas de paro se registran como **“sin causa”**, lo que dificulta identificar los principales problemas operativos y limita el análisis de las fallas reales del proceso.
 
-- 🛑 La máquina **Torno-02** registra el mayor tiempo acumulado de paro.
+- ⚙️ La **Línea D** presenta el menor nivel de eficiencia (**78,44%**), además de concentrar el mayor tiempo de paro y el mayor consumo de energía dentro de la operación.
 
-- 📈 Algunas semanas muestran aumentos importantes en producción.
-
-- 🌡️ Se evidencia relación entre temperaturas elevadas y mayores tasas de defectos.
+- ❌ Aunque la **Línea D** aporta el mayor volumen de unidades OK (**32,8% del total**), también concentra la mayor cantidad de unidades defectuosas, con **5.607 unidades** equivalentes al **38,8% de los defectos totales**, generando un mayor impacto en costos operativos.
 
 ### ✅ Recomendación Gerencial
 
-Se recomienda intervenir prioritariamente el turno nocturno y realizar mantenimiento preventivo al Torno-02 para mejorar la eficiencia general y disminuir defectos.
+Se recomienda priorizar acciones de mejora en la **Línea D**, enfocándose en la reducción de tiempos de paro, disminución de defectos y optimización del consumo energético, ya que es la línea con menor eficiencia y mayor impacto económico dentro de la operación.
+
+Adicionalmente, se debe fortalecer el registro de causas de paro para mejorar el análisis y la toma de decisiones operativas.
 """)
 
 # ══════════════════════════════════════════════════════════════
